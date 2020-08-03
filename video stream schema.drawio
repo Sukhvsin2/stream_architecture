@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T13:19:00.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7oDl5U6bATzATAR6AdOb" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T13:19:25.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sni5k8HmyO7hoDBJ-XzK" version="13.5.8" type="github">
   <diagram id="SdbfOOwtx4S4Tutyls-T" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
             <mxPoint x="545" y="965" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rIjy98ENIoPu2MhdSFr-48" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Movies Collection:&lt;br&gt;VIDEO ID&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;LEFT DURATION&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;link to SERVER&lt;br&gt;NAME&lt;br&gt;Thumbs&lt;br&gt;Desc&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="8rIjy98ENIoPu2MhdSFr-48" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Movies Collection:&lt;br&gt;VIDEO ID&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;LEFT DURATION: INITIAL 0:00&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;link to SERVER&lt;br&gt;NAME&lt;br&gt;Thumbs&lt;br&gt;Desc&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="8rIjy98ENIoPu2MhdSFr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8rIjy98ENIoPu2MhdSFr-39" target="8rIjy98ENIoPu2MhdSFr-44">
